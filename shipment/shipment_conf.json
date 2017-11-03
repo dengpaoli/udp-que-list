@@ -1,0 +1,10 @@
+{
+	"shipment_conf":{
+        "local_udpserver_address": "127.0.0.1",
+        "local_udpserver_port": 2718,
+		//"server_address": "8.18.0.114",
+		"server_address": "112.74.163.76",
+		"ser_port_up": 1680,
+		"ser_port_down": 1682
+	}
+}
